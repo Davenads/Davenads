@@ -25,7 +25,7 @@
 
 - ⚔️ [**SvS-Bot-2**](https://github.com/Davenads/SvS-Bot-2) - Discord bot managing competitive PvP leaderboards for Diablo 2 Resurrected, with match scheduling, stat tracking, and automated reporting
 
-- 🏆 [**DFC-bot**](https://github.com/Davenads/DFC-bot) - Tournament and match management bot for the Coooley Diablo Fighting Championship
+- 🏆 [**DFC-Data**](https://github.com/Davenads/DFC-Data) - Tournament and match management bot for the Coooley Diablo Fighting Championship
 
 - 💀 [**d2r-pvp-games-bot**](https://github.com/Davenads/d2r-pvp-games-bot) - Live D2R Battle.net PvP game viewer via Discord
 
