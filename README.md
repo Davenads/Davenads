@@ -17,6 +17,8 @@
 
 ## Projects
 
+- 🏃 [**sewickley-runners**](https://github.com/Davenads/sewickley-runners) - Full-stack site for a community running club: Sanity CMS, Google OAuth photo uploads, auto-archiving events, and SEO-optimized SSR with structured data. Built with Next.js and TypeScript. → [sewickleyrunners.org](https://sewickleyrunners.org)
+
 - 🛸 [**DECUR**](https://github.com/Davenads/DECUR) - Structured research archive for UAP/NHI phenomena. Insider testimony, congressional records, and incident data spanning eight decades. Built with Next.js and TypeScript. → [decur.org](https://decur.org)
 
 - 🌴 **BushTribe Eco Adventures** *(private client repo)* - Full-stack marketing and booking platform for an eco-adventure tour company on St. Croix, USVI. FareHarbor integration, Cloudinary media delivery, GA4. → [bush-tribe.vercel.app](https://bush-tribe.vercel.app)
